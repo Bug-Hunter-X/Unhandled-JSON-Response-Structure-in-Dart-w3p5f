@@ -1,0 +1,2 @@
+# Unhandled JSON Response Structure in Dart
+This repository demonstrates a common error in Dart applications when handling JSON responses from APIs. The `bug.dart` file shows incorrect JSON handling that could lead to runtime errors if the JSON structure is unexpected. The `bugSolution.dart` file shows the correct way to handle this.
